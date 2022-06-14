@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoApp</string>
+    <string name="btnRegistrar">¿No tienes cuenta? Registrate.</string>
+    <string name="invalid_name">Ingresa un e-mail válido</string>
+    <string name="invalid_password">Ingresa una contraseña mayor a 6 dígitos</string>
+
+
+</resources>
